@@ -22,3 +22,5 @@ let name = "Priyadarshi"
 let isFollow = true
 
 console.log(age, name, isFollow);
+console.table([age,name,isFollow]);
+
