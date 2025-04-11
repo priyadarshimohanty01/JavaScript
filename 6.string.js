@@ -13,5 +13,6 @@ let Address = "Mahanadi Vihar, cuttack"
 // string and its methods 
 
 let a = "     Utkaila     "
-let b = a.trim
-console.log(b);
+let b = a.trim()
+let c = a.toUpperCase()
+console.log(c);
