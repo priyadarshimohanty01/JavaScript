@@ -1,22 +1,14 @@
-//stack and heap -- memory
-
-// primitive hela stack
-
-//non primitive hela heap
-
-//what is stack
-
-// call of value
-
-let y = "Java"
-let x = 23 // x = Java
-y = x
+let a = 34574.123
+//console.log(a.toFixed(2));
+console.log(a.toPrecision(3));
 
 
-console.log(x); // javascript
-
-console.log(y); //java
-
-//heap
 
 
+45.7 = 
+3.32 =
+22.45 =
+
+
+
+// round up and string methods 
